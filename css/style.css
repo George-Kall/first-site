@@ -1,0 +1,19 @@
+
+body{
+    background-color: #CDE780;
+    font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+    font-size: 15px;
+    margin:0;
+    border: 10px solid black;
+    
+
+}
+
+header{
+    background-color: #59594A;
+    padding: 0px 0;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    
+}
