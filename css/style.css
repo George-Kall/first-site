@@ -4,16 +4,46 @@ body{
     font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
     font-size: 15px;
     margin:0;
-    border: 10px solid black;
+    /* border: 10px solid black; */
     
 
 }
 
 header{
     background-color: #59594A;
-    padding: 0px 0;
+    padding: 50px 0;
     text-align: center;
     color: white;
     text-transform: uppercase;
     
+}
+
+.container{
+    width:80%;
+    margin:0 auto;
+    margin-top:40px;
+    
+}
+
+section{
+    float: left;
+    width:70%;
+    margin-bottom: 40px;
+}
+
+aside{
+    float: right;
+    width:25%;
+}
+
+
+footer{
+    background-color: #7286A0;
+    padding: 50px 0;
+    text-align: center;
+    color: white;
+    clear:both;
+    /* margin-top:100px; kai na to valo san na min iparxi logo float 
+    mono sto pano meros ton float elements mporo na epidraso allios 
+    gia kato apo tis idiotites ton flaot */
 }
